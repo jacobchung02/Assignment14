@@ -1,18 +1,7 @@
-## Getting Started
+## Assignment 14: Extended Tic-Tac-Toe
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Provided is an application that extends the base "TicTacToe" game code to provide a 5x5 grid to play on, as well as updated rules (5 in a row to win) that correspond with the larger game board.
 
-## Folder Structure
+* The application is in .java format, as well as a .jar file that can be executed through the command prompt.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+* Running the .jar file needs valid command-line launch arguments to provide required JavaFX SDK packages. 
